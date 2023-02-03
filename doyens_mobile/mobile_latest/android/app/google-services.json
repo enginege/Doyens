@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968644185212",
+    "project_id": "e-commerce-app-267bd",
+    "storage_bucket": "e-commerce-app-267bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968644185212:android:6b6c5dfc9cc34fbf4b4df9",
+        "android_client_info": {
+          "package_name": "com.doyens.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968644185212-olke2eg1e7vo1520udv7l5na634er4dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL7HUKpn9SuFe0SdXEEAr5rSvpox706MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968644185212-olke2eg1e7vo1520udv7l5na634er4dp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
