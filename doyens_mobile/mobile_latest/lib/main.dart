@@ -10,13 +10,13 @@ void main() {
   WidgetsFlutterBinding.ensureInitialized();
   final Future<FirebaseApp> _initialization = Firebase.initializeApp(
     options: FirebaseOptions(
-        apiKey: "AIzaSyCuACDkvOC-qWxYd98Yl76Zp4MLYKs_P0E",
-        authDomain: "e-commerce-app-267bd.firebaseapp.com",
-        projectId: "e-commerce-app-267bd",
-        storageBucket: "e-commerce-app-267bd.appspot.com",
-        messagingSenderId: "968644185212",
-        appId: "1:968644185212:web:1b901fc5194f7f4a4b4df9",
-        measurementId: "G-8DVGVD7XS9"),
+        apiKey: "AIzaSyCwLAdx1n1GvqLzy1myEL7IQ-TFKfyXuow",
+        authDomain: "doyens-f8945.firebaseapp.com",
+        projectId: "doyens-f8945",
+        storageBucket: "doyens-f8945.appspot.com",
+        messagingSenderId: "1035596811759",
+        appId: "1:1035596811759:web:9828f6dd092dfd34a17a1a",
+        measurementId: "G-ZEQXWGK1EE"),
   );
   runApp(FutureBuilder(
       future: _initialization,

@@ -75,12 +75,11 @@ Future createTransaction(
     'orderstatus': "placed",
   });
 }
-Future addAddressToTrans(String address,String transactionid) async{
-final CollectionReference productList =
+
+Future addAddressToTrans(String address, String transactionid) async {
+  final CollectionReference productList =
       FirebaseFirestore.instance.collection('transactions');
-  return await productList
-      .doc(transactionid)
-      .update({'address': address});
+  return await productList.doc(transactionid).update({'address': address});
 }
 
 Future updateTransaction(String transactionid, String item) async {
@@ -282,10 +281,11 @@ Future addProduct(String description, String images, num price, int stock,
     'stock': stock,
     'title': title,
     'category': category,
-    'id': 5,
+    'id': 4,
     'isPopular': false,
     'rating': 0,
     'timesold': 0,
+    'kackererateedildi': 0,
   };
 
   final CollectionReference productList =
