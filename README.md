@@ -5,11 +5,11 @@ Live Demo URL for Mobile Application: https://doyens-f8945.web.app
 
 Credentials of Demo Roles:
 
-1) Customer: email: customer@doyens.com
-             password: customer
+1) Customer: E-mail: customer@doyens.com
+             Password: customer
              
-2) Sales Manager: email: smanager@doyens.com
-                  password: smanager
+2) Sales Manager: E-mail: smanager@doyens.com
+                  Password: smanager
              
-3) Product Manager: email: pmanager@doyens.com
-                    password: pmanager
+3) Product Manager: E-mail: pmanager@doyens.com
+                    Password: pmanager
